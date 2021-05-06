@@ -1,8 +1,5 @@
 ---
 ---
-
-@import "{{ site.theme }}";
-
 header {
 display: none !important;
 }
@@ -14,3 +11,7 @@ footer {
 .btn {
   display: none !important;
 }
+
+@import "{{ site.theme }}";
+
+
