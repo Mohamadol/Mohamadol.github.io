@@ -6,12 +6,12 @@ and machine learning. Specifically, we:
 
 * explore software/hardware co-design approaches to come up with faster and more efficient solutions
 * design application specific architectures to accelerate machine learning inference
-* explore acceleration of emerging training procedures (e.g. second order methods) for artificial neural networks
+* explore acceleration of emerging training procedures (e.g. second order methods) for deep artificial neural networks
 
 ## Education
 
-MASc, University of British Columbia, current
-BASc, University of British Columbia, 2019
+* MASc, University of British Columbia, current
+* BASc, University of British Columbia, 2019
 
 ## Professional Experience
 
