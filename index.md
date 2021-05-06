@@ -15,8 +15,8 @@ BASc, University of British Columbia, 2019
 
 ## Professional Experience
 
-* Research Assistant       University of British Columbia
-* Research & Development   [Tangio Printed Electronics](https://www.tangio.ca/)
+* Research Assistant, University of British Columbia, Jan. 2020 - present
+* Research & Development Intern, [Tangio Printed Electronics](https://www.tangio.ca/), Sep. 2017 - Apr. 2018
 
 ## Publications
 
