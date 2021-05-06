@@ -1,5 +1,4 @@
 ![My Pic](mypic.jpg)
-Format: ![Alt Text](url)
 
 I am a Master of Applied Science student and Research Assistant at the University of British Columbia, 
 working with Professor Mieszko Lis. My research is currently focused on the intersection of computer architecture 
@@ -15,6 +14,9 @@ MASc, University of British Columbia, current
 BASc, University of British Columbia, 2019
 
 ## Professional Experience
+
+* Research Assistant       University of British Columbia
+* Research & Development   [Tangio Printed Electronics  ](https://www.tangio.ca/)
 
 ## Publications
 
