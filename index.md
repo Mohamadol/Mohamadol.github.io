@@ -20,4 +20,4 @@ BASc, University of British Columbia, 2019
 
 ## Publications
 
-## Projects
+* M Olyaiy, C Ng, M Lis (2021). Accelerating DNN Inference with Predictive Layer Fusion. In ICS 2021.
