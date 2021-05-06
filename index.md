@@ -2,10 +2,10 @@
 
 I am a Master student and Research Assistant at the University of British Columbia.
 
-##Education
+## Education
 
-##Professional Experience
+## Professional Experience
 
-##Publications
+## Publications
 
-##Projects
+## Projects
